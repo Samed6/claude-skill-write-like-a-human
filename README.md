@@ -1,4 +1,4 @@
-# ecriture-sans-tics-ia
+# claude-skill-write-like-a-human
 
 Un skill pour Claude qui fait écrire l'IA comme un humain : il rédige et relit des textes sans les tics d'écriture IA, sans "—", sans règle de trois, sans ton de brochure.
 
@@ -44,6 +44,8 @@ Le script ne remplace pas une relecture : il ne juge pas les phrases creuses et 
 ### Installation
 
 Avec Claude Code, copie le contenu de ce dépôt dans le dossier `~/.claude/skills/ecriture-sans-tics-ia/` de ton ordinateur.
+
+Le dossier doit porter le nom `ecriture-sans-tics-ia`, celui du champ `name:` de `SKILL.md`, et non celui du dépôt. Si tu clones, renomme le dossier obtenu.
 
 Sur Claude.ai, télécharge le dépôt en .zip et importe-le comme skill personnalisé depuis les paramètres de ton compte.
 
@@ -97,6 +99,8 @@ Note that the instructions in `SKILL.md` are written in French, and the script's
 ### Installation
 
 With Claude Code, copy the contents of this repository into the `~/.claude/skills/ecriture-sans-tics-ia/` folder on your machine.
+
+The folder has to be named `ecriture-sans-tics-ia`, after the `name:` field in `SKILL.md`, not after the repository. If you clone it, rename the resulting folder.
 
 On Claude.ai, download the repository as a .zip and import it as a custom skill from your account settings.
 
