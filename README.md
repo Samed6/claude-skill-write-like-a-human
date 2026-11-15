@@ -1,7 +1,8 @@
 # ecriture-sans-tics-ia
 
-Un skill pour Claude qui écrit et relit des textes sans les tics d'écriture IA.
-A Claude skill that writes and reviews text without the AI writing tics.
+Un skill pour Claude qui fait écrire l'IA comme un humain : il rédige et relit des textes sans les tics d'écriture IA, sans "—", sans règle de trois, sans ton de brochure.
+
+A Claude skill that makes AI write like a human: it writes and reviews text without the AI writing tics, no em dashes, no rule of three, no brochure tone.
 
 [Français](#français) | [English](#english)
 
